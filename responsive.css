@@ -1,0 +1,48 @@
+@media screen and (max-width:770px){
+    #header{
+        background-image: none;
+    }
+    .logo {
+        margin-top: 25px;
+        width: 70px;
+    }
+    
+    .header-text {
+        margin-top: 100px;
+    }
+    
+    h1 {
+        font-size: 25px;
+    }
+    #menuBtn {
+        width: 40px;
+        right: 50px;
+        
+    }
+    .common-btn {
+        padding: 10px 16px;
+    }
+    .about-left,.about-right {
+        width: 100%;
+    }
+.about-left img {
+    width: 89%;
+    margin-top: 40px;
+}
+.about-text h2 {
+    font-size: 18px;
+}
+.contact-left-col, .contact-right-col {
+    width: 100%;
+}
+.contact-right-col img {
+    margin-top: 20px;
+}
+.footer-left{
+    width: 100%;
+    margin-top: 60px;
+}
+.footer-right{
+    width: 100%;
+}
+}
